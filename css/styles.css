@@ -1,0 +1,151 @@
+body {
+	background: #fff;
+	margin:0px;
+	border: 0px;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#333333;
+	line-height: 145%;
+}
+
+.topContent {
+	background: #fff;
+	width: 900px;
+	height: 350px;
+	margin: 0px auto 20px auto;
+	text-align: center;
+}
+
+.container {
+	background: #fff;
+	width: 900px;
+	margin: 30px auto 0px auto;
+}
+
+.topLinks {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#666;
+	line-height: 135%;
+	margin: 0px 0px 15px 0px;
+	padding: 0px;
+	background-color: #ddd;
+	font-weight: bold;
+	border-bottom: 1px solid #999;
+}
+
+a.topLinks {
+	display: block;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#999;
+	font-weight: normal;
+	border: 0px;
+	text-decoration: none;
+	margin: 0px 12px 0px 0px;
+}
+
+a.topLinks:hover {
+	display: block;
+	background:url('../img/arrow.gif') no-repeat 0px 0px;
+	background-position: 0px 6px;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color: #cc3300;
+	font-weight: normal;
+	border: 0px;
+	text-decoration: none;
+	margin: 0px 12px 0px 0px;
+}
+
+ul.topLinks {
+	width: 900px;
+	text-align: right;
+	margin: 0px auto 0px auto;
+	padding: 3px 0px 3px 10px;
+	list-style: none;
+	border: 0px;
+}
+
+li.topLinks {
+	display: inline-block;
+	text-align: right;
+	width: 40px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 5px;
+	border: 0px;
+}
+
+.title {
+	float: left;
+	width: 420px;
+	height: 250px;
+	margin: 0px 0px 0px 30px;
+	padding: 100px 0px 0px 0px;
+	text-align: center;
+	color: #999;
+	font-size: 18px;
+}
+
+.image {
+	background: #666;
+	float: left;
+	width: 242px;
+	height: 350px;
+	margin: 10px 133px 0px 73px;
+	padding: 0px;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+}
+
+.img {
+	border-bottom: 1px solid #333;
+}
+
+h1 {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:28px;
+	font-weight: bold;
+	color: #336699;
+	line-height: 140%;
+	margin: 0px 0px 30px 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+h2 {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:24px;
+	font-weight: bold;
+	color: #ccc;
+	line-height: 140%;
+	margin: 0px;
+	padding: 0px;
+}
+
+h3 {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:22px;
+	font-weight: normal;
+	color: #999;
+	line-height: 125%;
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	margin: 5px 10px 20px 0px;
+}
+
+hr.separator {
+	text-align: center;
+	height: 1px;
+	width: 650px;
+	margin: 10px 0px 20px 100px;
+	border-style: dotted;
+	border-color: #ccc;
+	border-width: 1px 0 0 0;
+	border-radius: 20px;
+}
